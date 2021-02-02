@@ -1,1 +1,5 @@
-/.metadata/
+.idea/
+settings/
+out/
+.classpath/
+.project/
