@@ -6,6 +6,11 @@ import java.util.Comparator;
 
 //To Invoke Lambda expression Functional interface is mandatory.
 // Functional Interface acts as a TYPE for lambda expression.
+/**
+ * 
+ * @author Rituraj Kumar
+ *
+ */
 public class LambdaBasicOpeartions {
 	public static void main(String[] args) {
 
